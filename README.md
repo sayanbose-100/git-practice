@@ -1,7 +1,7 @@
 
 # Git Practice
 
-First steps towards learning git
+First steps towards learning git and it is very exciting.
 
 
 ## Appendix
