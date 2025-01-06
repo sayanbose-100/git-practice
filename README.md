@@ -1,7 +1,7 @@
 
 # Git Practice
 
-A brief description of what this project does and who it's for
+First steps towards learning git
 
 
 ## Appendix
